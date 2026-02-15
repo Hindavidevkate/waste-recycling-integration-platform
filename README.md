@@ -53,3 +53,16 @@ npm install express mongoose cors dotenv bcryptjs jsonwebtoken multer
 # create server file
 backend/server.js
 
+## Your Final Backend Structure:
+```
+backend/
+├── server.js        ← updated
+├── .env             ← updated
+├── models/
+│   ├── User.js      ← NEW
+│   └── Pickup.js    ← existing
+├── middleware/
+│   └── auth.js      ← NEW
+└── routes/
+    ├── auth.js      ← NEW
+    └── temp.js      ← existing

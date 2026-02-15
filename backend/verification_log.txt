@@ -1,0 +1,27 @@
+🚀 Starting Admin Verification...
+
+--- 1. Authenticating Admin ---
+⚠️ Registration failed (might exist), trying login...
+
+❌ VERIFICATION FAILED
+Login failed: 
+🚀 Starting Admin Verification...
+
+--- 1. Authenticating Admin ---
+⚠️ Registration failed (might exist), trying login...
+
+❌ VERIFICATION FAILED
+Error Message: Login failed: 
+Error Code: undefined
+🚀 Starting Admin Verification...
+
+--- 1. Authenticating Admin ---
+⚠️ Registration failed.
+Reg Error:  Code: ECONNREFUSED
+Trying login...
+❌ Login failed.
+Login Error:  Code: ECONNREFUSED
+
+❌ VERIFICATION FAILED
+Error Message: Authentication failed
+Error Code: undefined
